@@ -11,6 +11,8 @@ function Dashboard({uid}) {
     <div>
         <AddTask />
         <Task />
+
+        
     </div>
   )
 }
